@@ -11,7 +11,9 @@ import javax.validation.constraints.NotNull;
 public class Tarefa {
 //sdasadsa
 	//dsadsadas
-		private Long id;
+	//Nova b	
+	
+	private Long id;
 		
 		@NotNull
 		private String descricao;
